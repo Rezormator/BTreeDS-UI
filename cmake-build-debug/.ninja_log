@@ -1,0 +1,27 @@
+# ninja log v6
+9	74	7523544483366309	D:/Projects/Algorithms/BTreeDS/cmake-build-debug/BTreeDS_autogen/mocs_compilation.cpp	9858e74b32ea21be
+9	74	7523544483366309	BTreeDS_autogen/timestamp	9858e74b32ea21be
+9	74	7523544483366309	D:/Projects/Algorithms/BTreeDS/cmake-build-debug/BTreeDS_autogen/timestamp	9858e74b32ea21be
+9	74	7523544483366309	BTreeDS_autogen/mocs_compilation.cpp	9858e74b32ea21be
+1220	1705	7523544495471141	BTreeDS.exe	b4fb9211c36b0469
+1535	2354	7522796122298421	CMakeFiles/BTreeDS.dir/BTreeDS_autogen/mocs_compilation.cpp.obj	72a413127fdeea78
+72	3543	7523532724477126	CMakeFiles/BTreeDS.dir/main.cpp.obj	744c63908e1e8b5a
+3	844	7523560076224362	build.ninja	bb288d6f186541db
+104	3775	7523532724798314	CMakeFiles/BTreeDS.dir/MainWindow/MainWindow.cpp.obj	bd303d720b3d8d30
+69	3269	7523334628992126	CMakeFiles/BTreeDS.dir/Table/Table.cpp.obj	a555c1846198696b
+92	989	7523326123914724	CMakeFiles/BTreeDS.dir/DataUnit/DataUnit.cpp.obj	f57405d2606bc725
+74	1219	7523544484016297	CMakeFiles/BTreeDS.dir/Random/Random.cpp.obj	b76d0a7f5455fd32
+574	2323	7523522303884001	CMakeFiles/BTreeDS.dir/BTreeNode/BTreeNode.cpp.obj	6483e6a55327620
+110	4706	7523513362570620	CMakeFiles/BTreeDS.dir/Button/Button.cpp.obj	3343cee6905fd3cb
+112	4829	7523513362595747	CMakeFiles/BTreeDS.dir/Input/Input.cpp.obj	60b51c4042d4fdf6
+115	4796	7523513362627627	CMakeFiles/BTreeDS.dir/InputLine/InputLine.cpp.obj	ee75c09b5bde796
+118	4782	7523513362657632	CMakeFiles/BTreeDS.dir/TextLabel/TextLabel.cpp.obj	d94688d7b8dba3cf
+69	1005	7523540126578842	CMakeFiles/BTreeDS.dir/BTree/BTree.cpp.obj	9b74b67bde994844
+108	3238	7523542885863693	CMakeFiles/BTreeDS.dir/Actions/BTreeActions.cpp.obj	9a718e827dedf5f6
+24	165	7523560130121322	BTreeDS_autogen/timestamp	9858e74b32ea21be
+24	165	7523560130121322	BTreeDS_autogen/mocs_compilation.cpp	9858e74b32ea21be
+24	165	7523560130121322	D:/Projects/Algorithms/BTreeDS/cmake-build-debug/BTreeDS_autogen/timestamp	9858e74b32ea21be
+24	165	7523560130121322	D:/Projects/Algorithms/BTreeDS/cmake-build-debug/BTreeDS_autogen/mocs_compilation.cpp	9858e74b32ea21be
+166	2727	7523560131545035	CMakeFiles/BTreeDS.dir/Random/Random.cpp.obj	b76d0a7f5455fd32
+238	6471	7523560132263338	CMakeFiles/BTreeDS.dir/Actions/BTreeActions.cpp.obj	9a718e827dedf5f6
+6472	7246	7523560194597848	BTreeDS.exe	b4fb9211c36b0469
